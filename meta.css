@@ -20,6 +20,7 @@
     background-color: rgb(77, 194, 77);
     position:fixed;
     border-radius:14px 14px 0px 0px ;
+    z-index: 1;
 }
 .headArrow{
     position: relative;
